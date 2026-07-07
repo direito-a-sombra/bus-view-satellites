@@ -1,4 +1,1 @@
-imgs/sat_32x32.jpg filter=lfs diff=lfs merge=lfs -text
-imgs/sat_48x48.jpg filter=lfs diff=lfs merge=lfs -text
-imgs/sat_64x64.jpg filter=lfs diff=lfs merge=lfs -text
 imgs/sat_hex.jpg filter=lfs diff=lfs merge=lfs -text
